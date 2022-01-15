@@ -1,4 +1,5 @@
 # Machine-learning-projects
 personal machine learning projects
 
-#1, digit reecognition using CNN
+# Digit reecognition using CNN
+# housing price prediction using GridSearchCV
