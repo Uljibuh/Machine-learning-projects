@@ -1,7 +1,8 @@
 # Machine-learning-projects
 personal machine learning projects
 
-# Digit recognition using CNN
-# housing price prediction using GridSearchCV
-# EDA and algorithms comparison and Adaboost in Titanic dataset
-# Heart disease prediction
+# 1, Digit recognition using CNN
+# 2, housing price prediction using GridSearchCV
+# 3, EDA and algorithms comparison and Adaboost in Titanic dataset
+# 4, Heart disease prediction
+# 5, customer segmentation using KMeans
