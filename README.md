@@ -6,3 +6,4 @@ personal machine learning projects
 # 3, EDA and algorithms comparison and Adaboost in Titanic dataset
 # 4, Heart disease prediction
 # 5, Customer segmentation using KMeans
+# 6, EDA and movie recommendation
