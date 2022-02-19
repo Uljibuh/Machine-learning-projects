@@ -8,3 +8,4 @@ python, kaggle dataset, sickit-learn.
 # 4, Heart disease prediction
 # 5, Customer segmentation using KMeans
 # 6, EDA and movie recommendation
+# 7, Wine Classification with xgboost and GridSearch
